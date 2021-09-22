@@ -1,0 +1,113 @@
+,question,answer,template_filename
+0,How many paragraph and title in this article?,False,compare_integer.json
+1,How many things are either titles or texts?,9,single_or.json
+2,How many journaltitles are there?,2,zero_hop.json
+3,How many journalparagraphs are there?,9,zero_hop.json
+4,What number of journaltexts are there?,7,zero_hop.json
+5,How many texts are there?,7,zero_hop.json
+6,What number of titles are there?,2,zero_hop.json
+7,Are any paragraphs visible?,True,zero_hop.json
+8,Is there a journaltable_caption?,False,zero_hop.json
+9,Are any journalparagraphs visible?,True,zero_hop.json
+10,Are there any paperfigure_cations?,False,zero_hop.json
+11,Is there a papertable_caption?,False,zero_hop.json
+12,How many objects are texts or titles?,10,single_or.json
+13,How many things are texts or paragraphs?,10,single_or.json
+14,How many journaltexts are there?,7,zero_hop.json
+15,How many journaltitles are there?,3,zero_hop.json
+16,How many titles are there?,3,zero_hop.json
+17,How many paragraphs are there?,10,zero_hop.json
+18,What number of journalparagraphs are there?,10,zero_hop.json
+19,Are any journaltexts visible?,True,zero_hop.json
+20,Are any titles visible?,True,zero_hop.json
+21,Are any papertables visible?,False,zero_hop.json
+22,Is there a papertable_caption?,False,zero_hop.json
+23,Are there any journalparagraphs?,True,zero_hop.json
+24,How many objects are texts or table_captions?,1,single_or.json
+25,How many things are either texts or texts?,6,single_or.json
+26,How many objects are texts or texts?,6,single_or.json
+27,What number of things are paper texts or table_captions?,1,single_or.json
+28,What number of objects are either paper texts or texts?,6,single_or.json
+29,What number of tables are there?,2,zero_hop.json
+30,How many journalparagraphs are there?,12,zero_hop.json
+31,How many figure_cations are there?,0,zero_hop.json
+32,What number of journaltables are there?,2,zero_hop.json
+33,What number of texts are there?,6,zero_hop.json
+34,Are there any journaltables?,True,zero_hop.json
+35,Is there a paperlist?,False,zero_hop.json
+36,Are any journaltable_captions visible?,True,zero_hop.json
+37,Are any paperlists visible?,False,zero_hop.json
+38,Are there any journaltitles?,True,zero_hop.json
+39,How many things are either texts or paragraphs?,9,single_or.json
+40,What number of objects are either journal texts or journal titles?,9,single_or.json
+41,How many objects are texts or titles?,9,single_or.json
+42,How many paragraphs are there?,9,zero_hop.json
+43,What number of journalparagraphs are there?,9,zero_hop.json
+44,What number of texts are there?,7,zero_hop.json
+45,How many journaltexts are there?,7,zero_hop.json
+46,What number of journaltitles are there?,2,zero_hop.json
+47,Are there any journalfigure_cations?,False,zero_hop.json
+48,Are any titles visible?,True,zero_hop.json
+49,Is there a figure?,False,zero_hop.json
+50,Are any journaltexts visible?,True,zero_hop.json
+51,Are any paperfigure_cations visible?,False,zero_hop.json
+52,What number of objects are figure_captions or titles?,1,single_or.json
+53,How many objects are either figure_captions or texts?,4,single_or.json
+54,How many objects are figure_captions or figures?,2,single_or.json
+55,What number of objects are either figure_captions or lists?,1,single_or.json
+56,How many objects are either figure_captions or texts?,4,single_or.json
+57,What number of journalparagraphs are there?,5,zero_hop.json
+58,How many figures are there?,2,zero_hop.json
+59,What number of paragraphs are there?,5,zero_hop.json
+60,What number of texts are there?,3,zero_hop.json
+61,What number of tables are there?,0,zero_hop.json
+62,Is there a text?,True,zero_hop.json
+63,Are there any tables?,False,zero_hop.json
+64,Is there a journalparagraph?,True,zero_hop.json
+65,Is there a table?,False,zero_hop.json
+66,Are any paperparagraphs visible?,False,zero_hop.json
+67,How many things are either titles or figures?,2,single_or.json
+68,How many things are titles or figures?,2,single_or.json
+69,What number of things are either journal titles or figure_captions?,1,single_or.json
+70,What number of things are either journal titles or journal paragraphs?,6,single_or.json
+71,How many objects are either titles or texts?,4,single_or.json
+72,What number of titles are there?,0,zero_hop.json
+73,What number of journalparagraphs are there?,6,zero_hop.json
+74,How many figure_captions are there?,1,zero_hop.json
+75,How many texts are there?,4,zero_hop.json
+76,How many journaltable_captions are there?,0,zero_hop.json
+77,Is there a journaltitle?,False,zero_hop.json
+78,Is there a figure_caption?,True,zero_hop.json
+79,Are any texts visible?,True,zero_hop.json
+80,Is there a paperfigure?,False,zero_hop.json
+81,Are there any journaltexts?,True,zero_hop.json
+82,How many things are titles or texts?,7,single_or.json
+83,What number of objects are journal titles or texts?,7,single_or.json
+84,What number of objects are journal titles or lists?,4,single_or.json
+85,What number of objects are journal titles or figure_cations?,3,single_or.json
+86,What number of things are journal titles or journal lists?,4,single_or.json
+87,How many lists are there?,1,zero_hop.json
+88,How many texts are there?,4,zero_hop.json
+89,How many titles are there?,3,zero_hop.json
+90,How many journallists are there?,1,zero_hop.json
+91,What number of paragraphs are there?,8,zero_hop.json
+92,Are there any papertables?,False,zero_hop.json
+93,Is there a list?,True,zero_hop.json
+94,Are any journallists visible?,True,zero_hop.json
+95,Are there any titles?,True,zero_hop.json
+96,Is there a journaltable_caption?,False,zero_hop.json
+97,What number of things are paper table_captions or texts?,2,single_or.json
+98,What number of objects are either paper table_captions or lists?,1,single_or.json
+99,How many objects are either table_captions or texts?,2,single_or.json
+100,What number of things are paper table_captions or journal paragraphs?,3,single_or.json
+101,What number of things are either texts or journal lists?,3,single_or.json
+102,How many journalparagraphs are there?,3,zero_hop.json
+103,What number of lists are there?,1,zero_hop.json
+104,What number of figures are there?,0,zero_hop.json
+105,What number of paragraphs are there?,3,zero_hop.json
+106,What number of texts are there?,2,zero_hop.json
+107,Are any journalparagraphs visible?,True,zero_hop.json
+108,Is there a journalfigure_cation?,False,zero_hop.json
+109,Is there a journaltext?,True,zero_hop.json
+110,Are there any figure_cations?,False,zero_hop.json
+111,Are there any texts?,True,zero_hop.json
