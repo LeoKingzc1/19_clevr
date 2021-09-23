@@ -1,0 +1,31 @@
+,question,answer,template_filename
+0,There is a text bottom the 6 paragraph; what number of 6 journal paragraphs are top-right it?,0,two_hop.json
+1,There is a text that is bottom the 6 paragraph; how many 6 texts are top it?,1,two_hop.json
+2,There is a text that is bottom the 6 paragraph; how many 7 paragraphs are left it?,0,two_hop.json
+3,What number of journal titles are top the text bottom the 6 paragraph?,1,two_hop.json
+4,There is a text that is bottom the 6 paragraph; how many 2 texts are top-right it?,0,two_hop.json
+5,There is a text that is bottom the 6 paragraph; how many texts are top it?,7,two_hop.json
+6,There is a text bottom the 6 paragraph; what number of 5 paragraphs are top it?,1,two_hop.json
+7,What number of 5 texts are left the text bottom the 6 paragraph?,0,two_hop.json
+8,There is a text bottom the 6 paragraph; how many 3 paragraphs are top it?,1,two_hop.json
+9,What number of 7 texts are top-right the text bottom the 6 paragraph?,0,two_hop.json
+10,Is there a 4 text that is top the journal paragraph top the 2 text?,False,two_hop.json
+11,There is a journal paragraph that is top the 2 text; are there any 1 texts bottom it?,True,two_hop.json
+12,Is there a 1 journal paragraph that is right the journal paragraph top the 2 text?,False,two_hop.json
+13,There is a journal paragraph that is top the 2 text; are there any 3 paragraphs that are bottom it?,True,two_hop.json
+14,There is a journal paragraph top the 2 text; is there a 7 journal text top-right it?,False,two_hop.json
+15,There is a journal paragraph that is top the 2 text; are there any 0 paragraphs bottom it?,True,two_hop.json
+16,There is a journal paragraph that is top the 2 text; is there a 6 journal paragraph that is top-right it?,False,two_hop.json
+17,There is a journal paragraph that is top the 2 text; are there any 3 journal paragraphs bottom it?,True,two_hop.json
+18,Is there a 2 journal text top-right the journal paragraph that is top the 2 text?,False,two_hop.json
+19,There is a journal paragraph top the 2 text; are there any 0 journal texts bottom it?,True,two_hop.json
+20,There is a title; what number of 1 paragraphs are bottom-right it?,0,one_hop.json
+21,How many journal texts are top the title?,4,one_hop.json
+22,How many paragraphs are top-right the title?,0,one_hop.json
+23,There is a title; how many 7 paragraphs are bottom it?,1,one_hop.json
+24,There is a title; what number of 7 journal paragraphs are bottom it?,1,one_hop.json
+25,There is a title; how many 3 journal paragraphs are bottom it?,0,one_hop.json
+26,There is a title; how many 0 journal paragraphs are bottom it?,1,one_hop.json
+27,There is a title; how many 2 paragraphs are top it?,1,one_hop.json
+28,What number of journal texts are bottom the title?,4,one_hop.json
+29,There is a title; what number of 7 texts are bottom-right it?,0,one_hop.json
